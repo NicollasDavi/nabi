@@ -25,7 +25,7 @@ export default function Home() {
     },
     {
       title: "Nabi",
-      text: "Com você sinto que posso enfrentar o mundo (e as borboletas). Prometo tentar não sair correndo na quando vir uma.",
+      text: "Com você sinto que posso enfrentar o mundo (e as borboletas).",
     },
   ];
 
@@ -88,7 +88,7 @@ export default function Home() {
             onClick={nextStep}
             className="bg-gradient-to-r from-purple-500 to-purple-700 text-white py-3 px-8 rounded-full text-lg font-semibold mt-6 shadow-xl transform transition-transform duration-300 ease-in-out"
           >
-            Próximo Capítulo
+            Proximo
           </motion.button>
         )}
       </section>
